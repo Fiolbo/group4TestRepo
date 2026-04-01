@@ -4,27 +4,10 @@ now there is text here
 
 time to do some wierd stuff 
 
-
-Edit edit
-Second Edit Local
+awdawdasdawdasfdrgawdasd
 Edit online
 time for EVEN MORE CONFLICTS
-
-haha more edit
-
-time for EVEN MORE CONFLICTS
-I'm changing stuff and committing it 
-test text
-
-testing testing
-
-balabalalbakla
-
-afrkfh5it
-
-
-time for conflicts
-
+awdasd a wkdhbawdasd
 
 
 time for EVEN MORE CONFLICTS
