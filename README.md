@@ -2,4 +2,18 @@
 
 now there is text here
 
-We do more edits that will fuck the merge over because we're silly and goofy and awesome and so rad brah
+Edit edit
+Second Edit Local
+Edit online
+
+haha more edit
+
+I'm changing stuff and committing it muahahahaahahahahahahahahahaha
+also run the nyoooom.lua it'd be so funny :p trust
+
+i did this on a branch
+test text
+
+testing testing
+
+time for conflicts
