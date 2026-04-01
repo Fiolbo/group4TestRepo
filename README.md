@@ -17,6 +17,7 @@ I claim this line
 time for EVEN MORE CONFLICTS
 test text
 
+<<<<<<< HEAD
 testing testing
 <<<<<<< HEAD
 balabalalbakla
@@ -28,3 +29,5 @@ afrkfh5it
 balabalbala
 
 
+=======
+>>>>>>> d3117120166c4cdb0dc5b017dadeebfe32b63c14
