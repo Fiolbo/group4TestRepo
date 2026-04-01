@@ -25,12 +25,6 @@ afrkfh5it
 
 
 
-=======
+balabalbala
 
-time for conflicts
-<<<<<<< HEAD
->>>>>>> e9e30f75e4f428b5f6c7b67abf8082710f5d278f
-=======
 
-time for EVEN MORE CONFLICTS
->>>>>>> 30ee5ab6772f57ddd0f93e3d70161f6b83360b41
