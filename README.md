@@ -11,7 +11,7 @@ haha more edit
 I'm changing stuff and committing it muahahahaahahahahahahahahahaha
 also run the nyoooom.lua it'd be so funny :p trust
 
-i did this on a branch
+I also did this on a branch
 test text
 
 testing testing
