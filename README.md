@@ -15,9 +15,14 @@ i did this on a branch
 test text
 
 testing testing
+<<<<<<< HEAD
 balabalalbakla
 
 afrkfh5it
 
 
 
+=======
+
+time for conflicts
+>>>>>>> e9e30f75e4f428b5f6c7b67abf8082710f5d278f
