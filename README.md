@@ -4,9 +4,6 @@ now there is text here
 
 time to do some wierd stuff 
 
-changes
-
-
 awdawdasdawdasfdrgawdasd
 Edit online
 time for EVEN MORE CONFLICTS
@@ -19,7 +16,6 @@ I also did this on a branch
 test text
 
 testing testing
-
 balabalalbakla
 
 afrkfh5it
@@ -32,4 +28,5 @@ alallaall
 hjrhj5hu5u5yuiyh
 
 
-new edit
+i am noob
+
