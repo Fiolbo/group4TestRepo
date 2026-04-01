@@ -2,20 +2,15 @@
 
 now there is text here
 
-Edit edit
-Second Edit Local
+time to do some wierd stuff 
+
+awdawdasdawdasfdrgawdasd
 Edit online
 time for EVEN MORE CONFLICTS
-
-haha more edit
-
-time for EVEN MORE CONFLICTS
-I'm changing stuff and committing it muahahahaahahahahahahahahahaha
-I claim this line
+awdasd a wkdhbawdasd
 
 
 time for EVEN MORE CONFLICTS
-test text
 
 <<<<<<< HEAD
 testing testing
