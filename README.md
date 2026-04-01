@@ -6,22 +6,9 @@ time to do some wierd stuff
 
 
 Edit edit
-Second Edit Local
-Edit online
-time for EVEN MORE CONFLICTS
-
-haha more edit
-
-time for EVEN MORE CONFLICTS
-I'm changing stuff and committing it 
-test text
-
-testing testing
-
-balabalalbakla
-
-afrkfh5it
-
+if this does not work, I will post all of My Immortal in these text
+do not try me
+it will be torture
 
 time for conflicts
 
