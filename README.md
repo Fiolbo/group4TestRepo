@@ -12,9 +12,10 @@ awdasd a wkdhbawdasd
 
 time for EVEN MORE CONFLICTS
 
-<<<<<<< HEAD
+I also did this on a branch
+test text
+
 testing testing
-<<<<<<< HEAD
 balabalalbakla
 
 afrkfh5it
@@ -28,5 +29,3 @@ hjrhj5hu5u5yuiyh
 
 i am noob
 
-=======
->>>>>>> d3117120166c4cdb0dc5b017dadeebfe32b63c14
